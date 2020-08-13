@@ -17,7 +17,7 @@ class Secret{
         System.out.println(res);
 	}
 }
-public class SecretOp extends Secret {
+public class Secretop extends Secret {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int n;
